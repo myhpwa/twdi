@@ -1,0 +1,5 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target" : { "namespace": "android_app", "package_name": "io.github.myhpwa.twdi",
+                   "sha256_cert_fingerprints": ["AA:36:75:84:9C:7F:0F:45:63:09:FA:0C:09:D3:E3:32:C8:95:8B:14:12:DB:2D:8E:6B:4B:36:56:C7:03:2A:BA"] }
+    }]
