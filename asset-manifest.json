@@ -1,32 +1,32 @@
 {
   "files": {
-    "main.css": "/twdi/static/css/main.0f2b7300.css",
-    "main.js": "/twdi/static/js/main.aedba2f3.js",
+    "main.css": "/twdi/static/css/main.837957dc.css",
+    "main.js": "/twdi/static/js/main.a4679724.js",
     "static/js/443.830c99d8.chunk.js": "/twdi/static/js/443.830c99d8.chunk.js",
     "static/js/738.3092a59c.chunk.js": "/twdi/static/js/738.3092a59c.chunk.js",
     "static/js/372.659610cd.chunk.js": "/twdi/static/js/372.659610cd.chunk.js",
     "static/js/856.807a2a2e.chunk.js": "/twdi/static/js/856.807a2a2e.chunk.js",
     "static/js/22.2f492e6b.chunk.js": "/twdi/static/js/22.2f492e6b.chunk.js",
     "static/js/851.74d57b84.chunk.js": "/twdi/static/js/851.74d57b84.chunk.js",
-    "static/js/215.c66db15d.chunk.js": "/twdi/static/js/215.c66db15d.chunk.js",
+    "static/js/215.5b3a20ae.chunk.js": "/twdi/static/js/215.5b3a20ae.chunk.js",
     "static/js/841.b41f212d.chunk.js": "/twdi/static/js/841.b41f212d.chunk.js",
     "static/js/186.28b35077.chunk.js": "/twdi/static/js/186.28b35077.chunk.js",
     "service-worker.js": "/twdi/service-worker.js",
     "index.html": "/twdi/index.html",
-    "main.0f2b7300.css.map": "/twdi/static/css/main.0f2b7300.css.map",
-    "main.aedba2f3.js.map": "/twdi/static/js/main.aedba2f3.js.map",
+    "main.837957dc.css.map": "/twdi/static/css/main.837957dc.css.map",
+    "main.a4679724.js.map": "/twdi/static/js/main.a4679724.js.map",
     "443.830c99d8.chunk.js.map": "/twdi/static/js/443.830c99d8.chunk.js.map",
     "738.3092a59c.chunk.js.map": "/twdi/static/js/738.3092a59c.chunk.js.map",
     "372.659610cd.chunk.js.map": "/twdi/static/js/372.659610cd.chunk.js.map",
     "856.807a2a2e.chunk.js.map": "/twdi/static/js/856.807a2a2e.chunk.js.map",
     "22.2f492e6b.chunk.js.map": "/twdi/static/js/22.2f492e6b.chunk.js.map",
     "851.74d57b84.chunk.js.map": "/twdi/static/js/851.74d57b84.chunk.js.map",
-    "215.c66db15d.chunk.js.map": "/twdi/static/js/215.c66db15d.chunk.js.map",
+    "215.5b3a20ae.chunk.js.map": "/twdi/static/js/215.5b3a20ae.chunk.js.map",
     "841.b41f212d.chunk.js.map": "/twdi/static/js/841.b41f212d.chunk.js.map",
     "186.28b35077.chunk.js.map": "/twdi/static/js/186.28b35077.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f2b7300.css",
-    "static/js/main.aedba2f3.js"
+    "static/css/main.837957dc.css",
+    "static/js/main.a4679724.js"
   ]
 }
